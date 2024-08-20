@@ -6,3 +6,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 //routes file
+//route second comment
